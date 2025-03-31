@@ -14,7 +14,7 @@ Implemented interpretations of the model using SHAP library.
 Visualisation of results:
 Visualised the importance of features and the final interpretation results.
 
-Stack & Libraries:
+Stack :
 - Pandas, Sklearn
 - Imbalanced-learn 
 - SHAP 
